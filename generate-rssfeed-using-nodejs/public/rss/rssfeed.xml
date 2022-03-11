@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Generate RSS feed wtih NodeJS</title>
+        <link></link>
+        <description>wtih NodeJS</description>
+        <lastBuildDate>Thu, 10 Mar 2022 13:12:11 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+    </channel>
+</rss>
